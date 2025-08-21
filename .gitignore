@@ -1,0 +1,22 @@
+# Python-specific
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+*.egg
+
+# Azure Functions
+bin/
+obj/
+local.settings.json
+.python_packages/
+__blobstorage__/
+__queuestorage__/
+__azurite_db*__.json
+
+# VS Code
+.vscode/
+
+# Misc
+.env
+*.log
