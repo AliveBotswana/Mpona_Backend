@@ -1,0 +1,11 @@
+export { default as BookingDataType } from './Booking';
+     export { default as PatientDataType } from './Patient';
+     export { default as PatientVisitDataType } from './PatientVisit';
+     export { default as Role } from './Role';
+     export { default as User } from './User';
+     export { default as VisitDataType } from './Visit';
+     export { default as HospitalDataType } from './Hospital';
+     export { default as DoctorDataType } from './Doctor';
+     export { default as DepartmentDataType } from './Department';
+     export { default as MedConditionDataType } from './MedCondition';
+     export { default as MedicationDataType } from './Medication';
